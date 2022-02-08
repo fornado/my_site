@@ -1,0 +1,22 @@
+
+[[/index|Back to Index]]
+
+= Android =
+
+== Introduction ==
+
+== Installation & Requirements ==
+see doc at reference^1^.
+
+== Code Design & Core Part ==
+
+== Usage ==
+
+== Practice in Project==
+
+== Tips ==
+
+== Reference ==
+1. [[https://develop.android.google.cn/guide/|Develop Android]]
+2. BeegridAndroid
+

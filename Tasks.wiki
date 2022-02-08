@@ -1,0 +1,11 @@
+
+= Tasks =
+== 2022 ==
+TODO:
+- [ ] finish _reading_ *RxSwift* and *cocoapods* source code, _master_ its *FRP* implement and _use_ it skilled;
+- [ ] finish _learning_ *develop.android* course, and reading *BeegreedAndroid* source code, enable to develop a medium app independently;
+- [ ] get base skill *H5_JS* programing, can make a medium blog site;
+- [ ] get a well skill of *Rust*, can understand and write a *intelligent contract* in rust and solity;
+- [ ] get base skill of *Shell*;
+- [ ] finish reading most intalled vim plugin source code, write 2 or more custom plugin;
+- [ ] get and stay weight to 75Kg;

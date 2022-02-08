@@ -1,0 +1,20 @@
+= Development =
+
+== DevOps ==
+    * <u>[[BeegridIOS]]</u>
+    
+== Programing Skill ==
+    * <u>[[IOS]]</u>
+    * <u>[[Android]]</u>
+    * <u>[[H5_JS]]</u>
+    * <u>[[Rust]]</u>
+    * <u>[[Shell]]</u>
+    * <u>[[Vim]]</u>
+
+== self-shape ==
+    * <u>[[Keep]]</u>
+
+== Projects ==
+
+== Tasks ==
+see [[Tasks]] file.
