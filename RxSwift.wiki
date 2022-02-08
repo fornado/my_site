@@ -18,7 +18,14 @@ see doc at reference^1^.
 
 == Tips ==
 
+== Study Plan ==
+1. 2022/02/08~2022/02/28: test demo, write note useage of ob, operators and so on;
+    every night at work day spend 30 mins:
+    * try to use and modify playground example;
+    * download example project, try to use and modfiy;
+    * make a wiki
+3. 2022/03/08~2022/03/28: get the core implement logic and code design;
+
 == Reference ==
 1. [[https://github.com/ReactiveX/RxSwift|ReactiveX/RxSwift]]
-
 

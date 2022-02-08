@@ -3,7 +3,7 @@
 
 = IOS =
     * <u>[[RxSwift]]</u>
-    * <u>Cocoapods</u>
+    * <u>[[Cocoapods]]</u>
 
 == Tasks ==
 Tasks in 2022, see [[Tasks#2022]]

@@ -1,6 +1,10 @@
+
+
 <u>[[/index|Back to Index]]</u>
 
-= Keep =
+<u>[[IOS.wiki|Back to IOS]]</u>
+
+= Cocoapods =
 
 == Introduction ==
 
@@ -16,5 +20,7 @@ see doc at reference^1^.
 == Tips ==
 
 == Study Plan ==
-1. 2022/02/08~2022/02/28: finish twice exercise one week;
+1. 2022/04/08~2022/04/28: learning ruby language;
+2. 2022/05/08~2022/05/28: get the core implement logic and code design;
 
+== Reference ==

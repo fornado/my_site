@@ -1,4 +1,26 @@
 
-[[/index|Back to Index]]
+<u>[[/index|Back to Index]]</u>
 
-this is note for rust;
+= Rust =
+
+== Introduction ==
+
+== Installation & Requirements ==
+see doc at reference^1^.
+
+== Code Design & Core Part ==
+
+== Usage ==
+
+== Practice in Project==
+
+== Tips ==
+
+== Study Plan ==
+1. 2022/02/08~2022/02/28: finish rustings^2^;
+every morning at work day spend 30 mins exercise;
+
+== Reference ==
+1. [[https://doc.rust-lang.org/book/title-page.html|The Rust Programming Language]]
+2. [[https://github.com/rust-lang/rustlings|rustings]]
+

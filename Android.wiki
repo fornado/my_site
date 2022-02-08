@@ -12,11 +12,24 @@ see doc at reference^1^.
 
 == Usage ==
 
-== Practice in Project==
-
 == Tips ==
+
+== Study Plan ==
+
+=== Develop Android Guide ===
+finish before *2022-04-08*, it must contains:
+every weekend spend one day to learn:
+- [ ] Section 1: App Base knowloge
+- [ ] Chapter compatibility of Section 2: Devices
+- [ ] Core theme Section;
+- [ ] Best Practice Section;
+
+=== Project ===
+*2022/04/09 ~ 2022/05/09*;
+read BeegridAndroid source code, get the core code and practice;
 
 == Reference ==
 1. [[https://develop.android.google.cn/guide/|Develop Android]]
 2. BeegridAndroid
+
 
